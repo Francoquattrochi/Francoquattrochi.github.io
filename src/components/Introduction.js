@@ -18,6 +18,7 @@ function Introduction(){
                 <img className="profile-pic" src="../images/profile_pic.jpeg" alt="Franco Quattrochi"/>
             </div>
             
+            
         </div>
 
     )
